@@ -1,0 +1,24 @@
+Try editing this txt file
+To get a good hold on git basics
+
+Majorly
+
+add
+status
+commit -m
+branch -a
+checkout -b
+pull -u origin master
+push -u origin master
+etc.
+
+
+
+You can also try correcting the typos here:
+
+Appple
+Orvnge
+Pimeapple
+Mamgo
+Strawberri
+Peech
